@@ -1,0 +1,38 @@
+.App-logo {
+    width: 90px;
+    pointer-events: none;
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    position: sticky;
+    display: block;
+  }
+  
+
+
+li.MuiListItem-root.MuiListItem-gutters.css-1nxmd3h-MuiListItem-root :hover {
+    background-color: #055574;
+    color: rgb(255, 253, 253);
+
+}
+
+.MuiAvatarGroup-root.css-1ytufz-MuiAvatarGroup-root {
+    float: left;
+}
+
+li.MuiListItem-root.MuiListItem-gutters.css-h2ronv-MuiListItem-root :hover {
+    background-color: #055574;
+    color: white;
+}
+h6.MuiTypography-root.MuiTypography-h6.css-1cy0siz-MuiTypography-root{
+  color:#055574;
+  font-weight: bolder;
+}
+.MuiAvatarGroup-root.css-raex7z-MuiAvatarGroup-root{
+  float: left;
+}
+
+
+img.MuiCardMedia-root.MuiCardMedia-media.MuiCardMedia-img.css-o69gx8-MuiCardMedia-root {
+background-color: #055574;
+}
